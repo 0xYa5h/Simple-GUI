@@ -1,1 +1,1 @@
-# Simple-GUI-
+# Simple-Python-GUI
